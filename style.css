@@ -747,7 +747,7 @@ img {
 	position: absolute;
 	left: -9999px;
 	top: 0px;
-	right: -9999px;
+/* 	right: -9999px; */
 	bottom: 0px;
 	content: "";
 	z-index: -1;
